@@ -12,3 +12,9 @@ Thank you to Dr. Fujisake-Manome for sharing the code.
 Lin, Y., Fujisaki-Manome, A., & Anderson, E. J. (2022). Simulating Landfast Ice in Lake Superior. Journal of Marine Science and Engineering, 10(7), 932. https://doi.org/10.3390/jmse10070932
 
 This model is for research purposes only, for specific questions direct them to Blake Clark at bclark@umbc.edu
+
+All model output used for the initial runs can be found at 
+
+https://portal.nccs.nasa.gov/datashare/yukonriver/CBS/FVCOM_2018_2022/
+
+AND a big thank you to the NASA Center for Climate Simulation (NCCS) support staff for all the help and collaboration.
